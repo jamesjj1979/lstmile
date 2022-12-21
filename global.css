@@ -1,3 +1,12 @@
-h1{
-   color: red; 
+.black_section{
+    background-color: black;
+    height: 3em;
+    width: 100%;
+}
+.blk_imgs{
+    display: inline-block;
+    position: relative;
+    left: 75%;
+    top: 25%;
+    padding-right: 20px;
 }
