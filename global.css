@@ -10,3 +10,23 @@
     top: 25%;
     padding-right: 20px;
 }
+.white_section{
+    height: 4.5em;
+}
+.lm_img{
+    float: left;
+}
+.menu{
+    float: right;
+    position: relative;
+    top: 45%;
+    margin-right: 70px;
+}
+.menu_items{
+    display: inline-block;
+    margin-right: 55px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.body{background-color: red;}
