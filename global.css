@@ -1,3 +1,6 @@
+/* brown r 164 g 128 b32*/
+
+
 .black_section{
     background-color: black;
     height: 3em;
@@ -28,7 +31,18 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 18px;
 }
-
+a.menu_a{color: black;}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { 
+    text-decoration: none; 
+    font-weight: bold;
+}
+a:active { text-decoration: none; }
+.donate{
+    background-color: rgb(164, 128,32);
+   border-radius: 20%;
+}
 .body{background-color: red;}
 
 /* dropdown on the menu /*
